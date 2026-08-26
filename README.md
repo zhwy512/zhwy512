@@ -9,9 +9,9 @@
 
 ---
 
-### ◼ THE MINDSET
-*   **Hyper-Adaptable:** Solid foundation in robust web development, yet entirely platform-agnostic. Whether pivoting to Mobile apps, exploring Embedded systems, or mastering new tech stacks, I am wired to learn rapidly and adapt instantly to whatever the business demands.
-*   **Language-Independent Logic:** Strong logical thinking that translates seamlessly across ecosystems (JavaScript, Java, Python). Focused on system architecture, data flow, and scalable logic rather than syntax boundaries.
+### ◼ THE MINDSET & DIRECTION
+*   **Enterprise Focus:** Actively expanding my backend capabilities into the **Java ecosystem**. Leveraging my solid foundation in Node.js to rapidly master Java-based architectures for large-scale enterprise applications.
+*   **Hyper-Adaptable:** Platform-agnostic by nature. Whether exploring new tech stacks, Embedded systems, or Mobile apps, I am wired to learn rapidly and adapt instantly to business demands.
 *   **AI-Augmented Development:** Thriving in the AI era. Highly adaptable in leveraging modern AI tools to accelerate development and optimize algorithms.
 *   **Leadership in Action:** Proven track record in orchestrating complex logistics, managing team dynamics, and executing large-scale events with absolute precision.
 
