@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>H U Y &nbsp; N G U Y Ễ N</h1>
+  <h1>N G U Y E N &nbsp; G I A &nbsp; H U Y</h1>
   <p><b>SOFTWARE ENGINEER | HYPER-ADAPTABLE PROBLEM SOLVER</b></p>
   <br>
   <p><i>"Languages and platforms are tools. The engineering mindset is the core."</i></p>
